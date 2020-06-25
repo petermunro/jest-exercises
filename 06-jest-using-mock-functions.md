@@ -19,7 +19,7 @@ That is, we can provide a trivial function that "pretends" to be the dependency 
 2. Add a function `addAndMultiply()` that takes 3 arguments:
 
     - a number
-    - a nuber to add to it
+    - a number to add to it
     - a number to multiply the total by
 
   This function should call your `add()` and `multiply()`
