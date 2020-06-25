@@ -10,3 +10,6 @@
 
 ## Verifying Array Elements
 
+1. Write a test to verify that the array
+   `['apple', 'banana', 'cherry', 'durian']`
+   contains `'banana'`.
