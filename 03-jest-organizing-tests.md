@@ -41,4 +41,6 @@ you can do so once, but pass different data sets into a single test.
     - `beforeAll` and `afterAll`
     - `beforeEach` and `afterEach`
 
-  Verify that these enable you to 
+  Verify that these enable you to setup state or
+  reset state before and after the test functions
+  have executed.
